@@ -1,2 +1,3 @@
-THIS IS MY FIRST PROJECT
-it shows the hello world.
+THIS IS MY FIRST PROJECT-
+it shows the hello world-
+using of two programs-
