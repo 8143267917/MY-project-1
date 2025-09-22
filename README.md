@@ -1,3 +1,4 @@
 THIS IS MY FIRST PROJECT-
-it shows the hello world-
-using of two programs-
+It shows the Hello World-
+Using of two programs-
+Python and Java.
